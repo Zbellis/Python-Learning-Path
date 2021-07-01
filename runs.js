@@ -1,5 +1,5 @@
-var maxPage = 16; // calculate this using (activities/20 + 1)
-var activityType = ""; // change to the workout type you want, or blank for all
+var maxPage = 17; // calculate this using (activities/20 + 1)
+var activityType = "Run"; // change to the workout type you want, or blank for all
 var p = 1;
 var done = 0;
 var url;
