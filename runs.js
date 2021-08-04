@@ -1,4 +1,4 @@
-var maxPage = 17; // calculate this using (activities/20 + 1)
+var maxPage = 19; // calculate this using (activities/20 + 1)
 var activityType = "Run"; // change to the workout type you want, or blank for all
 var p = 1;
 var done = 0;
