@@ -31,3 +31,5 @@ while (p <= maxPage) {
 window.open("workouts.html");
 
 // https://scottpdawson.com/export-strava-workout-data/
+
+// https://konklone.io/json/
