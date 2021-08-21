@@ -29,3 +29,5 @@ while (p <= maxPage) {
     p++;
 };
 window.open("workouts.html");
+
+// https://scottpdawson.com/export-strava-workout-data/
