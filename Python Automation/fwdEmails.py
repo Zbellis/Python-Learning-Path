@@ -1,29 +1,23 @@
 # Last updated 8/27/2021
-def fwdEmail():
+def fwdMACD():
+    send_to = int(input("Representatives from HP 1 for USA, or 2 for Mejico: "))
 
-    usa_hp = ['ingrid.alvarado@hp.com', 'angelica.arriaga1@hp.com',
+    if send_to == 1:
+        return fwdEmailUSA()
+    elif send_to == 2:
+        return fwdEmailMejico()
+
+def fwdEmailUSA():
+    us_hp = ['ingrid.alvarado@hp.com', 'angelica.arriaga1@hp.com',
     'suriel.deleon@hp.com', 'michael.mack@hp.com', 'george.doukas@hp.com']
 
-    méj_hp = ['victor.manuel.leon.diaz@hp.com', 'michael.mack@hp.com']
-
-
-    while True:
-        
-        print("Where are you sending the MACD to?")
-        send_to = int(input("Press 1 for USA, or 2 for Méjico"))
-        if send_to == 1:
-            return usa_hp
-        elif send_to == 2:
-            return méj_hp
-        else:
-            print("ERROR! You must enter 1 or 2")
-
-    for i in usa_hp:
+    for i in us_hp:
         print(i, ';')
 
-def typeSignature():
-    print('Zachary B. Ellis')
+def fwdEmailMejico():
+    mej_hp = ['victor.manuel.leon.diaz@hp.com', 'michael.mack@hp.com']
 
-#typeSignature()
-fwdEmail()
+    for i in mej_hp:
+        print(i, ';')
 
+fwdMACD()
