@@ -1,4 +1,4 @@
-# Showcasing Python Skills
+# Showcase of Python Skills
 
   ### Data Science
   ###### https://www.udemy.com/course/what-is-machine-learning/learn/lecture/23346380#overview
