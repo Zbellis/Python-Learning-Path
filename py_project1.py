@@ -19,11 +19,6 @@ while True:
         print("Your number is too high")
         #500 actually 450
         
-        """ if guess_number - 50 == gen_number:
-            print("You are really close")
-        else:
-            print("You are not close, keep trying")
- """
         guess_number = int(input("Guess a number between 1 - 1000: "))
 
 
