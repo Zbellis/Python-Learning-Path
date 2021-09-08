@@ -1,5 +1,5 @@
-# Showcase of Python Skills
+# Completed Data Science Applications
 
-1. [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+1. [Analyze Stock Price](https://youtu.be/JwSS70SZdyM?t=174)
 
 
