@@ -14,6 +14,8 @@
 ### Created a Web, Mobile, and Watch app that allows user to input their desired distance in mi, and pace, then the app uses machine learning from your previous Strava data to create smart splits and to pace you during a race!
 ### https://000432856.codepen.website/
 
+# Python fundamentals
+### Has novice topics that can teach a newbie how to code and advance topics that every good programmer needs to refer to sometimesm.
 
 # Key Skills Displayed
 1) Full Stack Python Developer
