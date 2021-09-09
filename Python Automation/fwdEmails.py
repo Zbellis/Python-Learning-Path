@@ -1,23 +1,15 @@
-# Last updated 8/27/2021
-def fwdMACD():
-    send_to = int(input("Representatives from HP 1 for USA, or 2 for Mejico: "))
+# A faster way to copy and paste Email Addresses and send to outlook
 
-    if send_to == 1:
-        return fwdEmailUSA()
-    elif send_to == 2:
-        return fwdEmailMejico()
+import pyperclip
 
-def fwdEmailUSA():
-    us_hp = ['ingrid.alvarado@hp.com', 'angelica.arriaga1@hp.com',
-    'suriel.deleon@hp.com', 'michael.mack@hp.com', 'george.doukas@hp.com']
+send_to_location = int(input("1 to send to USA or any key for Mexico: "))
 
-    for i in us_hp:
-        print(i, ';')
+if send_to_location == 1:
+    usa = "ingrid.alvarado@hp.com; angelica.arriaga1@hp.com; suriel.deleon@hp.com; michael.mack@hp.com; george.doukas@hp.com;"
+    pyperclip.copy(usa)
+    pyperclip.paste()
+else:
+    mexico = "silvana.pulido@hp.com; michael.mack@hp.com"
+    pyperclip.copy(mexico)
+    pyperclip.paste()
 
-def fwdEmailMejico():
-    mej_hp = ['victor.manuel.leon.diaz@hp.com', 'michael.mack@hp.com']
-
-    for i in mej_hp:
-        print(i, ';')
-
-fwdMACD()
