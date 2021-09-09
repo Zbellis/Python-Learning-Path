@@ -11,7 +11,7 @@
 ## 12 Data Science Applications
 https://www.youtube.com/watch?v=JwSS70SZdyM
 
-## Algorithms - Lessons completed on AlgoExpert
+## Algorithms - AlgoExpert
 https://www.algoexpert.io/purchase
 
 ## Automation and Testing
