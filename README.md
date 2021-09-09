@@ -15,4 +15,4 @@ https://www.youtube.com/watch?v=JwSS70SZdyM
 https://www.algoexpert.io/purchase
 
 # Personal App that uses machine learning on your previous data to create splits for runs and predict finish time 
-zacharybellis.com/index.html
+https://000432856.codepen.website/
