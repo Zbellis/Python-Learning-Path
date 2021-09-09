@@ -5,6 +5,8 @@
 4) Pandas
 5) Matplotlib
 6) Automation and Testing
+7) Jupyter
+8) Excel
 
 ## 12 Data Science Applications
 https://www.youtube.com/watch?v=JwSS70SZdyM
