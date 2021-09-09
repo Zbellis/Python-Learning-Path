@@ -14,5 +14,5 @@ https://www.youtube.com/watch?v=JwSS70SZdyM
 ## Algorithms - Lessons completed on AlgoExpert
 https://www.algoexpert.io/purchase
 
-# ML App that predicts runners finish time
+## ML App that predicts runners finish time
 https://000432856.codepen.website/
