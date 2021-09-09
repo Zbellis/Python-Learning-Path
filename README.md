@@ -13,7 +13,7 @@
 ### https://www.udemy.com/certificate/UC-ac60726b-92d5-41ec-b66b-5f1d6f663846/
 
 ## Python for Data Visualization
-### Created a Web, Mobile, and Watch app that allows user to input their desired distance in mi, and pace, then the app uses machine learning from your previous Strava data to create smart splits for a race. 
+### Created a Web, Mobile, and Watch app that allows user to input their desired distance in mi, and pace, then the app uses machine learning from your previous Strava data to create smart splits and to pace you during a race!
 ### https://000432856.codepen.website/
 
 
