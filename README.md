@@ -8,6 +8,8 @@
 7) Jupyter
 8) Excel
 
+# The Four - Five Folders show my projects and knowledge of python
+
 ## 12 Data Science Applications
 https://www.youtube.com/watch?v=JwSS70SZdyM
 
