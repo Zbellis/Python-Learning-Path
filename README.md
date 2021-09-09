@@ -15,7 +15,7 @@
 ### https://000432856.codepen.website/
 
 # Python fundamentals
-### Has novice topics that can teach a newbie how to code and advance topics that every good programmer needs to refer to sometimesm.
+### Has novice topics that can teach a newbie how to code and advance topics that every good programmer needs
 
 # Key Skills Displayed
 1) Full Stack Python Developer
