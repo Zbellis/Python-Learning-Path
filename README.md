@@ -1,13 +1,3 @@
-# Key Skills Displayed
-1) Full Stack Python Developer
-2) Algorithms
-3) Django
-4) Pandas
-5) Matplotlib
-6) Automation and Testing
-7) Jupyter
-8) Excel
-
 # The Four - Five Folders show my projects and knowledge of python
 
 ## 12 Data Science Applications
@@ -24,3 +14,14 @@ https://www.udemy.com/certificate/UC-ac60726b-92d5-41ec-b66b-5f1d6f663846/
 
 ## Python for Data Visualization
 https://000432856.codepen.website/
+
+
+# Key Skills Displayed
+1) Full Stack Python Developer
+2) Algorithms
+3) Django
+4) Pandas
+5) Matplotlib
+6) Automation and Testing
+7) Jupyter
+8) Excel
