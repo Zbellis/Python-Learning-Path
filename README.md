@@ -14,5 +14,5 @@ https://www.youtube.com/watch?v=JwSS70SZdyM
 ## Algorithms - Lessons completed on AlgoExpert
 https://www.algoexpert.io/purchase
 
-# Personal App that uses machine learning on your previous data to create splits for runs and predict finish time 
+# ML App that predicts runners finish time
 https://000432856.codepen.website/
