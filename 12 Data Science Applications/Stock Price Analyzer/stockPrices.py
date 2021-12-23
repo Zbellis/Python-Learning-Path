@@ -22,3 +22,4 @@ st.write("""
 ## Close Price""")
 st.line_chart(tickerDf.Close)
 st.line_chart(tickerDf.Volume)
+
