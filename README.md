@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" /> 
 
 
-## Hacking, Cleaning, and Plotting the Data
+## Hacking, Cleaning, and Plotting Health Data
 - Extracted years worth of Strava data using https://scottpdawson.com/export-strava-workout-data/. Follow this this turned my hundrends of recorded exercises into JSON then into an Excel doc. The file included upward of 500 rows of runs and other relevant workouts then ~20 columns that actually contained useful data. 
 - Next I imported the Excel data into Jupyter Notebooks then cleaned the data using Python and Pandas. Special thanks to Michael's Python for Data Vizualization courses
 - After cleaning the data I performed analysis' getting great insights that Strava Premium couldn't provide, such as my average running pace in minutes/mile
